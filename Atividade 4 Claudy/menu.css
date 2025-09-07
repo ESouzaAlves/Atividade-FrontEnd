@@ -1,0 +1,32 @@
+.principal ul{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    
+}  
+.principal li a:hover{
+    color: blue;
+}
+.principal li a{
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-family: Candara;
+    font-size: 50px;
+    margin-top: 20px;}
+h3{
+    text-align: center;
+    color: black;
+    font-family: Candara;
+}
+img{
+    width: 1350px;
+    height: 200px ;
+    
+}
+body{
+    background-color: rgb(179, 244, 255);
+}
