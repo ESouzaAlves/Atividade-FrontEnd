@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(77, 179, 212);
+    
+}
+.cartao{
+    background-color: lightblue;
+    border-radius: 15px;
+    padding: 80px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+
+}
