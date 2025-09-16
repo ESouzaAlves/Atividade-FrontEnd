@@ -1,0 +1,17 @@
+#texto {
+    border-radius: 10px;
+
+}
+
+#senha {
+    border-radius: 10px;
+}
+
+.botoes {
+    border-radius: 10px;
+    background-color: rgb(160, 235, 235);
+}
+
+body { 
+    text-align: center;
+}
