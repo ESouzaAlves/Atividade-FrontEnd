@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(2, 158, 158, 0.616);
+    text-align: center;
+}
+
+#pedidoInput {
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+#verificar {
+    border-radius: 25px;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+#escolhadocliente {
+    font-weight: bold;
+}
